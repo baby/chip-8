@@ -1,0 +1,11 @@
+[package]
+name = "chip-8"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mason Merril <mason@merril.engineering>"]
+description = "CHIP-8 Emulator"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
